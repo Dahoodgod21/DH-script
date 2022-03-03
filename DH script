@@ -1,0 +1,3 @@
+wile true do
+game.replacatedStorage.MainEvent:FireServer("Stomp")
+end
